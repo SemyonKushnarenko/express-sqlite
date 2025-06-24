@@ -116,4 +116,4 @@ router.post('/logout', auth, (req, res) => {
   });
 });
 
-module.exports = router; 
+module.exports = router;
