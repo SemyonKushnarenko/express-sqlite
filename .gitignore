@@ -3,3 +3,5 @@ sqlite3.exe
 database.sqlite
 
 node_modules
+temp_auto_push.bat
+temp_interactive_push.bat
